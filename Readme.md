@@ -1,3 +1,3 @@
 # Azure RTOS ThreadX on STM32G030
 ## Demo
-![](https://./demo/demo.GIF)
+![](./demo/demo.GIF)
